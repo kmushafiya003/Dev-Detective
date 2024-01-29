@@ -1,0 +1,1 @@
+"Dev Detective is a search application designed to help users find individuals by their usernames. Built using HTML, CSS, and JavaScript, this application offers a streamlined interface for searching and locating users. Additionally, it features a dynamic dark mode functionality for improved user experience in low-light environments."
